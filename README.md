@@ -37,4 +37,4 @@ AISplitSheet takes the privacy of its users very seriously. Please refer to our 
 
 License
 
-AISplitSheet is a proprietary software tool owned by AISplitSheet Inc. The use of AISplitSheet is subject to the terms and conditions outlined in the End User License Agreement (EULA) available on the AISplitSheet website.
+AISplitSheet is a proprietary software tool owned by Kenni Velez Records AI Inc. The use of AISplitSheet is subject to the terms and conditions outlined in the End User License Agreement (EULA) available on the AISplitSheet website.
