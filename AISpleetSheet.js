@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 
-app = Flask(__split_sheet_ai__)
+app = Flask(__ai_split_sheet__)
 
 class MusicSplitSheet:
     def __init__(self, song_title, song_artists, percentages):
