@@ -38,3 +38,83 @@ AISplitSheet takes the privacy of its users very seriously. Please refer to our 
 License
 
 AISplitSheet is a proprietary software tool owned by Kenni Velez Records AI Inc. The use of AISplitSheet is subject to the terms and conditions outlined in the End User License Agreement (EULA) available on the AISplitSheet website.
+
+# 🤖 AISplitSheet
+
+Smart Split Sheet Generator for Musicians, Bands & Creators  
+Built with ❤️ by [Music AI Solutions](https://github.com/KenniVelez/music-ai-solutions)
+
+---
+
+## 🎶 What is AISplitSheet?
+
+**AISplitSheet** is an AI-powered tool that generates smart, fair, and legally structured **split sheets** for artists, bands, producers, and collaborators.
+
+Forget the spreadsheets and verbal promises. This app helps you document who owns what in your music — **in seconds**, not hours.
+
+---
+
+## 🔑 Key Features
+
+- 🧠 **AI Suggests Fair Splits**  
+  Based on roles: songwriter, producer, beatmaker, session musician, etc.
+
+- 📃 **Auto-Filled Metadata**  
+  ISRCs, PRO info, contact details, and roles auto-populated.
+
+- ✍️ **e-Signature & PDF Export**  
+  Download and sign instantly.
+
+- 🔐 **Blockchain-Ready Records**  
+  Optional hash storage on IPFS for copyright traceability.
+
+- 🌐 **Multi-Language Support** *(coming soon)*
+
+---
+
+## 💻 Tech Stack
+
+- Node.js • Firebase • Express
+- OpenAI API (GPT + Whisper)
+- MongoDB • Google Sheets API
+- Thunkable (mobile app version)
+
+---
+
+## 🚀 Roadmap
+
+- [x] MVP Web version  
+- [x] PDF Generator  
+- [ ] Whisper integration for voice-to-split (voice input)  
+- [ ] G-Sheets batch sync for labels  
+- [ ] In-app e-signature  
+- [ ] Web3 license template export  
+- [ ] Add to Music AI Solutions SaaS dashboard
+
+---
+
+## 📸 Preview
+
+*Coming soon: screenshots and mobile prototype*
+
+---
+
+## 🧠 Author
+
+**Santiago Quevedo Jaramillo aka Sant1 Queved0**  
+Founder of [Kenni Velez Records AI Inc.](https://tune.fm/KenniVelez)  
+[🔗 LinkedIn](https://linkedin.com/in/queved0) | [💻 GitHub](https://github.com/KenniVelez)
+
+---
+
+## 🌍 Join the AI Music Rights Revolution
+
+> “If you can’t split it clearly, don’t release it.” — Sant1 Queved0
+
+We’re building fair, fast, and transparent tools for a new generation of music creators.
+
+---
+
+## 🛡️ License
+
+MIT © 2025 Sant1 Queved0
